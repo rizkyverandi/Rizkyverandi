@@ -17,5 +17,5 @@ Welcome to my GitHub profile! I'm a passionate software developer always explori
 
 ## 📬 Connect with Me
 - **LinkedIn**: [@rizkyverandi](https://www.linkedin.com/in/rizkyverandi)
-- **Twitter**: [@rizkyverandi](https://twitter.com/rizkyverandi)
-- **Email**: rizkyverandi@gmail.com
+- **Twitter**: [@rizverandi](https://twitter.com/rizverandi)
+- **Email**: rizverandi@gmail.com
