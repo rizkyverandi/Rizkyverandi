@@ -9,9 +9,6 @@ Welcome to my GitHub profile! I'm a passionate software developer always explori
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## 📊 GitHub Stats
-![Rizky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizkyverandi&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyverandi&layout=compact&theme=radical)
 
